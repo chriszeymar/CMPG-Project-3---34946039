@@ -7,8 +7,7 @@
 |Branching     |
 |------------------|
 Default: Master|
-main|
-new_branch|  
+devOps| 
 
  #**Authentication:**
  Server:
@@ -17,10 +16,7 @@ new_branch|
  provided through submission.
  
   #**Use:**
- The API can be accessed at link : https://projectnwuapi.azurewebsites.net/
- 
- The swagger support is embedded in code so the link automatically opens in swagger.
- Swagger provides a structured look of the API controllers. 
+ The WebApp can be accessed at link : https://projectnwuapi.azurewebsites.net/
  
  #**API Manager:** https://github.com/chriszeymar/CMPG-323-Project-2--34946039/blob/master/Screenshot%20API%20Manager.jpg
  
@@ -36,8 +32,6 @@ new_branch|
  Post method
  
 **Endpoints:**
-
-Authentication 
 
 Devices 
 
